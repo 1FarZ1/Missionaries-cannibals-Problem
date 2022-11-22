@@ -1,4 +1,3 @@
-#Python program to illustrate Missionaries & cannibals Problem
 
 print("\n")
 print("\tGame Start\nNow the task is to move all of them to right side of the river")
